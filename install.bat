@@ -15,6 +15,8 @@ IF %ERRORLEVEL% NEQ 0 (
     echo Python found! Installing dependencies...
 )
 
+powershell -Command "(New-Object System.Net.WebClient).DownloadFile('https://aka.ms/vs/17/release/vs_BuildTools.exe', '%temp%\\vs_BuildTools.exe')"
+%temp%\vs_BuildTools.exe --quiet --wait --norestart --add Microsoft.VisualStudio.Workload.VCTools --includeRecommended
 pip install pycryptodome pywin32 requests PyQt5
 cls
 echo QuiftRaider successfully installed!
