@@ -3,7 +3,7 @@ title QuiftRaider - installer
 python --version >nul 2>&1
 IF %ERRORLEVEL% NEQ 0 (
     echo Python not found! Installing Python...
-    SET PYTHON_INSTALLER_URL=https://www.python.org/ftp/python/3.11.5/python-3.11.5.exe
+    SET PYTHON_INSTALLER_URL=https://www.python.org/ftp/python/3.13.0/python-3.13.0-amd64.exe
 
     powershell -Command "(New-Object System.Net.WebClient).DownloadFile('%PYTHON_INSTALLER_URL%', 'python-installer.exe')"
     echo Installing Python...
