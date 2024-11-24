@@ -1,5 +1,5 @@
 # QuiftRaider ʙᴇᴛᴀ
-## ❗ QUIFTRAIDER RECODE IS STILL IN DEVELOPMENT. BUY PREMIUM VERSION FOR MORE STABLE VERSION.
+## ❗ INSTALL [node.js](https://nodejs.org/en/download/package-manager) AND 'node-fetch' PACKAGE INSTALLED TO WORK!
 Buy our premium version here : [discord.gg/quift](https://discord.gg/quift) 
 
 ## `👑 PREMIUM KEY`
