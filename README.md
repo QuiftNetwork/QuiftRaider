@@ -1,5 +1,4 @@
 # QuiftRaider ʙᴇᴛᴀ
-## ❗ INSTALL [node.js](https://nodejs.org/en/download/package-manager) AND 'node-fetch' PACKAGE INSTALLED TO WORK!
 Buy our premium version here : [discord.gg/quift](https://discord.gg/quift) 
 
 ## `👑 PREMIUM KEY`
@@ -11,6 +10,8 @@ Buy our premium version here : [discord.gg/quift](https://discord.gg/quift)
 
 ### 👤USERNAME: FreeQuiftRaider
 ### 🔒KEY: FreeQuiftRaider
+
+## ❗ INSTALL [node.js](https://nodejs.org/en/download/package-manager) AND 'node-fetch' PACKAGE INSTALLED TO WORK!
 
 ## Preview
 <p align="center">
