@@ -19,7 +19,7 @@ Buy our premium version here : [discord.gg/quift](https://discord.gg/quift)
 </p>
 
 ## Installation
--Run `install.bat` **(only needed the first time)**, then execute `run.bat` to start the application.-
+--Run `install.bat` **(only needed the first time)**, then execute `run.bat` to start the application.--
 
 ## Features
 - HTTP & HTTPS proxy support
