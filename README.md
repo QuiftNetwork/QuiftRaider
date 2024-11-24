@@ -1,4 +1,5 @@
 # QuiftRaider ʙᴇᴛᴀ
+## ❗ QUIFTRAIDER IS STILL IN DEVELOPMENT AND NOT READY FOR RELEASE
 Buy our premium version here : [discord.gg/quift](https://discord.gg/quift)
 ### 👤USERNAME: FreeQuiftRaider
 ### 🔒KEY: FreeQuiftRaider
