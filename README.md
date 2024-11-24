@@ -1,6 +1,14 @@
 # QuiftRaider ʙᴇᴛᴀ
 ## ❗ QUIFTRAIDER RECODE IS STILL IN DEVELOPMENT. BUY PREMIUM VERSION FOR MORE STABLE VERSION.
 Buy our premium version here : [discord.gg/quift](https://discord.gg/quift) 
+
+## `👑 PREMIUM KEY`
+**1 month** - 5.30$/usd
+**3 years** - 12.40$/usd
+**LIFETIME** - 29.99$/usd
+
+**Source Code** - 99.99$/usd
+
 ### 👤USERNAME: FreeQuiftRaider
 ### 🔒KEY: FreeQuiftRaider
 
@@ -32,3 +40,4 @@ Run `install.bat` **(only needed the first time)**, then execute `run.bat` to st
 - Call Spammer
 - **Mass DM** `👑 PREMIUM`
 - **Mass Report** `👑 PREMIUM`
+- **E-mail Verifier** `👑 PREMIUM`
