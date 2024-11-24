@@ -1,5 +1,5 @@
 # QuiftRaider ʙᴇᴛᴀ
-## ❗ QUIFTRAIDER RECODE IS STILL IN DEVELOPMENT AND NOT READY FOR RELEASE. BUY PREMIUM VERSION FOR BETTER PERFORMANCE.
+## ❗ QUIFTRAIDER RECODE IS STILL IN DEVELOPMENT. BUY PREMIUM VERSION FOR MORE STABLE VERSION.
 Buy our premium version here : [discord.gg/quift](https://discord.gg/quift) 
 ### 👤USERNAME: FreeQuiftRaider
 ### 🔒KEY: FreeQuiftRaider
