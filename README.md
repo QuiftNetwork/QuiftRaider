@@ -11,15 +11,13 @@ Buy our premium version here : [discord.gg/quift](https://discord.gg/quift)
 ### 👤USERNAME: FreeQuiftRaider
 ### 🔒KEY: FreeQuiftRaider
 
-## ❗ INSTALL [node.js](https://nodejs.org/en/download/package-manager) AND 'node-fetch' PACKAGE INSTALLED TO WORK!
-
 ## Preview
 <p align="center">
   <img src="https://raw.githubusercontent.com/QuiftNetwork/QuiftRaider/refs/heads/main/image.png" alt="Preview of QuiftRaider">
 </p>
 
 ## Installation
-~~Run `install.bat` **(only needed the first time)**, then execute `run.bat` to start the application.~~ INSTALL [node.js](https://nodejs.org/en/download/package-manager) AND 'node-fetch' PACKAGE
+~~Run `install.bat` **(only needed the first time)**, then execute `run.bat` to start the application.~~ 
 
 ## Features
 - HTTP & HTTPS proxy support
